@@ -1,5 +1,5 @@
 ### Date created
-This Project was created on October 17th 2018.
+This Project was created on October 17th 2018. 
 
 ### BikeShare Project
 
