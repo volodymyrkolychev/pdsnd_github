@@ -1,8 +1,7 @@
 ### Date created
 This Project was created on November 17th 2018.
 
-### Project Title
-Replace the Project Title
+### BikeShare Project
 
 ### Description
 Describe what your project is about and what it does
