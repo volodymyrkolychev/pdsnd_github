@@ -8,6 +8,9 @@ This project uses pandas and numpy to allow the user to find out information reg
 
 ### Files used
 bikeshare.py
+chicago.csv
+new_york_city.csv
+washington.csv
 
 
 ### Credits
