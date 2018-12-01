@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 
 print("Welcome to the Bikeshare Analysis Program.")
+print("This program will allow you to explore in depth Bikeshare Data.")
 
 def prepare_data():
 
@@ -105,9 +106,9 @@ def calculate(city_file_name, month_selected, day_selected):
         print('The youngest and oldest customers were born in ' + str(youngest_user) + ' and ' + str(oldest_user) + ' respectively.')
         print("The average birth year for your selected sample is: " + str(average_birth_year) + ".")
 
-    display_5_lines(df)
+    display_trip_data(df)
 
-def display_5_lines(df):
+def display_trip_data(df):
     
     """Takes the Dataframe we set up in the function calculate and offers the user the option to print 5 lines of trip data. """
 
