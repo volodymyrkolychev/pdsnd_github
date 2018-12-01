@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 
 print("Welcome to the Bikeshare Analysis Program.")
+print("This program will allow you to explore in depth Bikeshare Data.")
 
 def prepare_data():
 
