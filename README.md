@@ -11,4 +11,4 @@ bikeshare.py
 
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+I consulted Udacity as well as the Python 3 documentation when working on this project.
